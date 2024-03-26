@@ -1,2 +1,3 @@
 console.log("welcom");
-var name = "liin";
+var names = "liin";
+var nameaas = "liin";
